@@ -5,5 +5,11 @@ Why do you need to do it? Builds the .git folder which holds the metadata for th
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
   staging is a collection of files that will be included in a commit.  The repository holds all the commits made. 
-  the working directory is where all files are kept including the .git metadata direcory which tracks history and changes.
-  Staging allows you organize the structure/file  of your commits
+  the working directory is where current files are kept including the .git metadata direcory which tracks history and changes.
+  Staging allows you organize the structure/file  of your commits.
+
+How can you use the staging area to make sure you have one commit per logical change?  
+
+  you can use "git diff" with out augs to see what changes were made in the working directory compaired to the files in the staging area.
+  
+
