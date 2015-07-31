@@ -12,4 +12,8 @@ How can you use the staging area to make sure you have one commit per logical ch
 
   you can use "git diff" with out augs to see what changes were made in the working directory compaired to the files in the staging area.
   
-
+What are some of the situations when branches would be helpfult in keeping your history organized?
+How would branches help?
+Branches would allow you to take your code in a different direction, Like making the code specific to 
+a country, city, etc. The code can continue in we will call it native mode with branches that are changed 
+to accomplesh you desire to have specific version for specific areas.
