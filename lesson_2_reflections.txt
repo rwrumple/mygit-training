@@ -17,3 +17,5 @@ How would branches help?
 Branches would allow you to take your code in a different direction, Like making the code specific to 
 a country, city, etc. The code can continue in we will call it native mode with branches that are changed 
 to accomplesh you desire to have specific version for specific areas.
+
+How do the diagrams help you visualize the branch structure? helps to see where things have branched. Things that could be hidden.
